@@ -122,15 +122,7 @@ function nothumb(event) {
     s.classList.remove("thumb");
   }
 
-  /*var x = event.target;
-if (x.tagName == "DIV") {
-        
-    var h = x.getElementsByTagName("a")[0];
-    var k = h.getElementsByTagName("img")[0];
-    var t = h.getElementsByTagName("h1")[0];
-    t.style.display = "none";
-    k.classList.remove("thumb");
-}*/
+ 
 }
 
 //document.getElementById("myModal");
